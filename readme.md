@@ -96,7 +96,7 @@ If you use this work in your research, please cite using the following format wh
 @misc{rizvi2024parkinsons,
   title={Parkinson's Disease Diagnosis via Wasserstein-Validated Voice Augmentation and Hybrid Ensemble Learning},
   author={Rizvi, Shah Mohammad and Akter, Rume and Siyam, Md. Aman Uddin and Shorna, Sumaiya Alam and Dey, Puja},
-  year={2024},
+  year={2025},
   howpublished={GitHub repository},
   url={https://github.com/yourusername/parkinsons-voice-diagnosis}
 }
